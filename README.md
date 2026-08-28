@@ -176,21 +176,4 @@ Some of the main findings from the analysis include:
 - The interactive dashboard allows product and sales performance to be analysed dynamically by year and product category.
 
 
-## Project Structure
 
-```text
-AdventureWorks-Sales-Analysis/
-│
-├── README.md
-│
-├── SQL/
-│   ├── 01_Database_Exploration.sql
-│   ├── 02_Basic_Business_Queries.sql
-│   └── 03_Intermediate_SQL_Analysis.sql
-│
-├── PowerBI/
-│   └── AdventureWorks_Internet_Sales_Dashboard.pbix
-│
-└── Images/
-    ├── Dashboard_Overview.png
-    └── Data_Model.png
