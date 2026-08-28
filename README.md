@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyses internet sales data from the **AdventureWorksDW2019** database using SQL Server and Power BI.
+This project analyses internet sales data from the AdventureWorksDW2019 database using SQL Server and Power BI.
 
 The objective of the project was to explore the database, answer key business questions using SQL, and build an interactive Power BI dashboard to present sales performance, customer behaviour, product performance, and regional sales trends.
 
